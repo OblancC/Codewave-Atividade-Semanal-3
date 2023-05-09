@@ -1,4 +1,4 @@
-*{
+* {
     padding: 0;
     margin: 0;
     border: 0;
@@ -9,7 +9,7 @@
 /*           Fonte Utilizada         */
 /* font-family: 'Inter', sans-serif; */
 
-:root{
+:root {
     --cor-texto: #656464;
     --cor-1: #0A093D;
     --cor-2: #217BF4;
@@ -33,6 +33,46 @@
 /*          Membros          */
 
 /*          Publicidade          */
+.container-geral {
+    display: flex;
+    margin-top: 250px;
+}
+
+
+.container-textos {
+    margin: auto;
+}
+
+.imagens {
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#whats {
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #217BF4;
+}
+
+#why {
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 16px;
+    font-size: 36px;
+    font-style: bold;
+}
+
+#recent {
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 36px;
+    font-size: 16px;
+}
+
+.apps {
+    display: flex;
+}
 
 /*          Ultimas Noticias          */
 
