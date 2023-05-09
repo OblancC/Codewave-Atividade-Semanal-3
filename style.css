@@ -25,6 +25,59 @@
 /*          Home          */
 
 /*          Sobre Nos          */
+.container-geral{
+    display: flex;
+    margin-top: 250px;
+}
+
+
+.container-textos{
+    margin: auto;
+}
+
+.imagens{
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.img3{
+    margin: 25px;
+}
+
+.img2{
+    margin-bottom: 15px;
+}
+
+#whats{
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #217BF4;
+}
+
+#why{
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 16px;
+    font-size: 36px;
+    font-style: bold;
+}
+
+#recent{
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 36px;
+    font-size: 16px;
+}
+
+.bolinhas{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+}
+.bolinhas p{
+    margin-bottom: 16px;
+}
+
 
 /*          Avaliações          */
 
