@@ -27,7 +27,7 @@
 /*          Sobre Nos          */
 .container-geral{
     display: flex;
-    margin-top: 250px;
+    margin: 150px;
 }
 
 
@@ -74,6 +74,7 @@
     font-family: 'Inter', sans-serif;
     font-size: 18px;
 }
+
 .bolinhas p{
     margin-bottom: 16px;
 }
