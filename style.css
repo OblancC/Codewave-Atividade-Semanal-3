@@ -29,6 +29,7 @@ header{
     align-items: center;
     border-bottom: 0.1vh solid #217cf413;
     justify-content: space-between;
+    background: none ;
 }
 
 .header-left{
@@ -76,6 +77,74 @@ header button{
 }
 
 /*          Home          */
+
+#home{
+    margin-top: -100px;
+    height: 101.5vh;
+    display: flex;
+    background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%);
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+}
+
+#home-left{
+    display: flex;
+    margin-right: 3vw;
+    margin-left: 12vw;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    text-align: left;
+}
+
+#home-community{
+    width: 180px;
+    height: 35px;
+    border-radius: 8px;
+    background: #217cf41e;
+    color: var(--cor-2);
+}
+
+#home-left h1{
+    font-size: 60px;
+    margin: 20px 0px 20px 0px;
+    color: var(--cor-1);
+    font-weight: 700;
+}
+
+#home-left h3{
+    margin-bottom: 40px;
+    color: var(--cor-texto);
+    font-weight: 400;
+}
+
+#home img{
+    height: 900px;
+    width: 700px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-right: 10vw;
+}
+
+.home-botao{
+    width: 170px;
+    height: 70px;
+    border-radius: 15px;
+    margin-right: 20px;
+    border: 1px solid var(--cor-2);
+}
+
+#botao1{
+    color: #FFFFFF;
+    background-color: #217BF4;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+}
+
+#botao2{
+    color: var(--cor-2);
+    background-color: #ffffff00;
+}
 
 /*          Sobre Nos          */
 
