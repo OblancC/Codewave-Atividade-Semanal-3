@@ -30,6 +30,204 @@
 
 /*          Comunidade          */
 
+.cabeçalho{
+    margin-top: 1.21vh;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: xx-large;
+}
+.p1{
+    color: #217BF4;
+    display: flex;
+    justify-content: center;
+
+}
+.cabeçalho-edit p{
+    height: 6.09vh;
+    width: 27.77vw;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    text-align: center;
+    font-size: medium;
+    margin-top: 6.09vh;
+    justify-content: center;
+}
+
+.corpo{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 8vh;
+    margin-left: 13vw;
+
+}
+
+.img-1 img{
+    width: 16.09vh;
+    height: 9.16vw;
+    
+}
+.img-1{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 3.04vh;
+    margin-left: 4vw;
+    width: 33vw;
+    border-radius: 8px;
+    box-shadow: 8px 8px 15px #82afea5c;
+}
+.descricao-img1{
+    height: 6.097vh;
+    width: 20.83vw;
+}
+.descricao-img1 h1{
+    margin-top:  2.43vh;
+    font-size: large;
+}
+.descricao-img1 p{
+    margin-top: 2.43vh;
+    font-size: small;
+}
+
+
+.img-2 img{
+    width: 16.09vh;
+    height: 9.16vw;
+}
+.img-2{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 3.04vh;
+    margin-left: 4vw;
+    width: 33vw;
+    border-radius: 8px;
+    box-shadow: 8px 8px 15px #82afea5c;
+}
+.descricao-img2{
+    height: 6.097vh;
+    width: 20.83vw;
+}
+.descricao-img2 h1{
+    margin-top:  2.43vh;
+    font-size: large;
+}
+.descricao-img2 p{
+    margin-top: 2.43vh;
+    font-size: small;
+}
+
+
+.img-3 img{
+    width: 16.09vh;
+    height: 9.16vw;
+}
+.img-3{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 3.04vh;
+    margin-left: 4vw;
+    width: 33vw;
+    border-radius: 8px;
+    box-shadow: 8px 8px 15px #82afea5c;
+}
+.descricao-img3{
+    height: 6.097vh;
+    width: 20.83vw;
+}
+.descricao-img3 h1{
+    margin-top:  2.43vh;
+    font-size: large;
+}
+.descricao-img3 p{
+    margin-top: 2.43vh;
+    font-size: small;
+}
+
+.img-4 img{
+    width: 16.09vh;
+    height: 9.16vw;
+}
+.img-4{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 3.04vh;
+    margin-left: 4vw;
+    width: 33vw;
+    border-radius: 8px;
+    box-shadow: 8px 8px 15px #82afea5c;
+}
+.descricao-img4{
+    height: 6.097vh;
+    width: 20.83vw;
+}
+.descricao-img4 h1{
+    margin-top:  2.43vh;
+    font-size: large;
+}
+.descricao-img4 p{
+    margin-top: 2.43vh;
+    font-size: small;
+}
+
+
+.img-5 img{
+    width: 16.09vh;
+    height: 9.16vw;
+}
+.img-5{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 3.04vh;
+    margin-left: 4vw;
+    width: 33vw;
+    border-radius: 8px;
+    box-shadow: 8px 8px 15px #82afea5c;
+}
+.descricao-img5{
+    height: 6.097vh;
+    width: 20.83vw;
+}
+.descricao-img5 h1{
+    margin-top:  2.43vh;
+    font-size: large;
+}
+.descricao-img5 p{
+    margin-top: 2.43vh;
+    font-size: small;
+}
+
+
+.img-6 img{
+    width: 16.09vh;
+    height: 9.16vw;
+}
+.img-6{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 3.04vh;
+    margin-left: 4vw;
+    width: 33vw;
+    border-radius: 8px;
+    box-shadow: 8px 8px 15px #82afea5c;
+}
+.descricao-img6{
+    height: 6.097vh;
+    width: 20.83vw;
+}
+.descricao-img6 h1{
+    margin-top:  2.43vh;
+    font-size: large;
+}
+.descricao-img6 p{
+    margin-top: 2.43vh;
+    font-size: small;
+}
 /*          Membros          */
 
 /*          Publicidade          */
