@@ -35,5 +35,46 @@
 /*          Publicidade          */
 
 /*          Ultimas Noticias          */
+#ultimas-noticias{
+     font-family: 'Inter', sans-serif; 
+}
+
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 8vw;
+    font-size: 13px;
+}
+
+.news{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 75px;
+}
+
+.desc{
+    display: flex;
+    justify-content: justify;
+    align-items: center;
+    font-size: 10px;
+}
+
+.desc-2{
+    display: flex;
+    justify-content: justify;
+    align-items: center;
+    font-size: 15px;
+}
 
 /*          Header          */
