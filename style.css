@@ -58,6 +58,7 @@
 }
 
 #why {
+    margin-top: 10px;
     font-family: 'Inter', sans-serif;
     margin-bottom: 16px;
     font-size: 36px;
@@ -72,6 +73,11 @@
 
 .apps {
     display: flex;
+    justify-content: space-between;
+}
+
+.img3{
+    margin-bottom: -4px;
 }
 
 /*          Ultimas Noticias          */
