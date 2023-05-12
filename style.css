@@ -30,6 +30,8 @@ header{
     border-bottom: 0.1vh solid #217cf413;
     justify-content: space-between;
     background: none ;
+    background-color: #ffffff00;
+    margin-bottom: -100px;
 }
 
 .header-left{
@@ -79,8 +81,7 @@ header button{
 /*          Home          */
 
 #home{
-    margin-top: -100px;
-    height: 101.5vh;
+    height: 100vh;
     display: flex;
     background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%);
     justify-content: center;
@@ -144,6 +145,26 @@ header button{
 #botao2{
     color: var(--cor-2);
     background-color: #ffffff00;
+}
+
+
+@media screen and (max-width: 768px){
+
+    #header{
+        margin-bottom: 50px;
+    }
+
+    #home{
+        padding-top: 100px;
+        display: flex;
+        flex-direction: column;
+        background-size: auto;
+    }
+
+    #home img{
+        margin-top: 0px;
+        height: 400px;
+    }
 }
 
 /*          Sobre Nos          */
