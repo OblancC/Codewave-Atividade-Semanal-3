@@ -1,4 +1,4 @@
-*{
+* {
     padding: 0;
     margin: 0;
     border: 0;
@@ -9,7 +9,7 @@
 /*           Fonte Utilizada         */
 /* font-family: 'Inter', sans-serif; */
 
-:root{
+:root {
     --cor-texto: #656464;
     --cor-1: #0A093D;
     --cor-2: #217BF4;
@@ -27,6 +27,54 @@
 /*          Sobre Nos          */
 
 /*          Avaliações          */
+
+.avacontainer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: ;
+    
+}
+
+.avabox1 {
+    box-sizing: border-box;
+    width: 21.875vw;
+    height: 47vh;
+    background: var(--cor-6);
+    box-shadow: 0px 26px 49px rgba(146, 165, 184, 0.14);
+    border-radius: 14px;
+
+}
+
+.avabox2 {
+    box-sizing: border-box;
+    width: 21.875vw;
+    height: 47vh;
+    background: var(--cor-6);
+    border-radius: 14px;
+
+}
+
+.avabox3 {
+
+}
+
+.avabox3 .button{
+
+}
+
+.icontext1{
+    display: flex;
+   
+    flex-direction: row;
+
+}
+
+.icontext2{
+    display: flex;
+    flex-direction: row;
+    
+}
+
 
 /*          Comunidade          */
 
