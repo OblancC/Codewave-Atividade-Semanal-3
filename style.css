@@ -36,4 +36,10 @@
 
 /*          Ultimas Noticias          */
 
-/*          Header          */
+/*          Footer          */
+
+.footer-home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
