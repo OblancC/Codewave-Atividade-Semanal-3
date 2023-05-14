@@ -1584,8 +1584,9 @@ margin-top: 2rem;
     margin-left: 7vw;
 }
 
-.container{
-    padding-top: 2.5vw;
+.container1{
+    padding-top: 2.5vh;
+    margin-top: 7vh;
     display: flex;
     justify-content: space-around;
     flex-direction: row;
@@ -1633,12 +1634,12 @@ footer{
     margin-right: 25vw;
 }
 
-.container h2{
+.container1 h2{
     font-weight: 500;
     font-size: 20px;
 }
 
-.container h3{
+.container1 h3{
     font-weight: 100;
     font-size: 15px;
 }
