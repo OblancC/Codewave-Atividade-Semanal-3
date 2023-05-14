@@ -759,7 +759,155 @@ header button{
 
 /*          Comunidade          */
 
-/*          Membros          */
+/* tablet */
+@media only screen and (max-width: 768px) {
+
+/*-------- cabeçalho --------*/
+    .cabecalho{
+    margin-top: 0.6rem;
+    display: flex;
+    font-size: smaller;
+    }
+    .cabecalho-edit{
+    margin-top: 0.8rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    }
+    .cabecalho-edit h1{
+    margin-top: 0.7rem;
+    font-size: 1.4rem;
+    }
+    .cabecalho-edit h4{
+    font-size: 1rem;
+    }
+    .cabecalho-edit p{
+    height: 6.09vh;
+    width: 10rem;
+    font-family: 'Inter', sans-serif;
+    margin-top: 4vh;
+    }
+/* ===================== */
+/*-------- corpo --------*/
+    .corpo{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 8vh;
+
+    }
+
+    .img-1 img{
+    width: 4rem;
+    height: 4rem;
+        
+    }
+    .img-1{
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    margin-left: 4vw;
+    border-radius: 10px;
+    font-size: x-small;
+    height: 11rem;
+    width: 30rem;
+    }
+    #desc-box-shadow{
+    box-shadow: 8px 8px 15px #698fc02b;
+    }
+
+    .descricao-img1{
+    display: contents;
+    height: 6.097vh;
+    width: 20.83vw;
+    }
+    .descricao-img1 h1{
+    width: 92px;
+    height: 55px;
+    margin-top: 1rem;
+    }
+    .descricao-img1 p{
+    margin: top 0.1rem;
+    font-size: xx-small;
+    }
+
+}
+
+/* =================== */
+/* padrao desktop */
+.cabecalho{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    font-family: 'Inter', sans-serif;
+    font-size: xx-large;
+}
+.p1{
+    color: #217BF4;
+    display: flex;
+    justify-content: center;
+
+}
+.cabecalho-edit h4{
+    margin-top: 1.2rem;
+    font-size: 1rem;
+}
+.cabecalho-edit h1{
+margin-top: 2rem;
+}
+
+.cabecalho-edit p{
+    margin-left: 2vw;
+    height: 6.09vh;
+    width: 24rem;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    text-align: center;
+    font-size: medium;
+    margin-top: 4vh;
+    justify-content: center;
+}
+
+.corpo{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 8vh;
+    margin-left: 13vw;
+
+}
+
+.img-1 img{
+    width: 16.09vh;
+    height: 9.16vw;
+    
+}
+.img-1{
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 3.04vh;
+    margin-left: 4vw;
+    width: 33vw;
+    border-radius: 10px;
+    }
+#desc-box-shadow{
+    box-shadow: 8px 8px 15px #698fc02b;
+}
+
+.descricao-img1{
+    height: 6.097vh;
+    width: 20.83vw;
+}
+.descricao-img1 h1{
+    margin-top:  2.43vh;
+    font-size: large;
+}
+.descricao-img1 p{
+    margin-top: 2.43vh;
+    font-size: small;
+}/*          Membros          */
 
 /*          Publicidade          */
 
