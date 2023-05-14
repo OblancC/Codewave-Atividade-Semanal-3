@@ -169,6 +169,125 @@ header button{
 
 /*          Sobre Nos          */
 
+@media screen and (max-width: 768px) {
+
+    .container-geral{
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0;
+    }
+    
+    
+    .container-textos{
+        margin: auto;
+    }
+    
+    .imagens{
+        margin: auto;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
+    
+    .img3{
+        margin: 25px;
+    }
+    
+    .img2{
+        margin-bottom: 15px;
+    }
+    
+    #whats{
+        font-family: 'Inter', sans-serif;
+        margin-bottom: 10px;
+        font-size: 18px;
+        color: #217BF4;
+    }
+    
+    #why{
+        font-family: 'Inter', sans-serif;
+        margin-bottom: 16px;
+        font-size: 36px;
+        font-style: bold;
+    }
+    
+    #recent{
+        font-family: 'Inter', sans-serif;
+        margin-bottom: 36px;
+        font-size: 16px;
+    }
+    
+    .bolinhas{
+        font-family: 'Inter', sans-serif;
+        font-size: 18px;
+    }
+    
+    .bolinhas li::marker{
+        color: rgb(255, 255, 0);
+        border-radius: 500%;
+        border-color: black;
+        margin-bottom: 16px;
+    }
+}
+
+.container-geral{
+    display: flex;
+    margin: 0px;
+}
+
+
+.container-textos{
+    margin: auto;
+}
+
+.imagens{
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.img3{
+    margin: 25px;
+}
+
+.img2{
+    margin-bottom: 15px;
+}
+
+#whats{
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #217BF4;
+}
+
+#why{
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 16px;
+    font-size: 36px;
+    font-style: bold;
+}
+
+#recent{
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 36px;
+    font-size: 16px;
+}
+
+.grade{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+}
+
+.bolinhas{
+    height: 18px;
+    margin-right: 12px;
+}
+
+.grade span{
+}
+
 /*          Avaliações          */
 
 /*          Comunidade          */
