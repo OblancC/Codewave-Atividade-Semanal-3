@@ -173,7 +173,7 @@ header button{
 
 @media screen and (max-width: 768px) {
 
-    .container-geral{
+    .container-geral1{
         display: flex;
         flex-wrap: wrap;
         margin: 0;
@@ -232,7 +232,7 @@ header button{
     }
 }
 
-.container-geral{
+.container-geral1{
     display: flex;
     margin: 0px;
 }
@@ -1309,6 +1309,7 @@ margin-top: 2rem;
 
 /*          Publicidade          */
 .container-geral {
+    margin-top: 150px;
     display: flex;
     background-color: #E5F0FD;
 }
